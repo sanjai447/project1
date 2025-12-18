@@ -1,5 +1,3 @@
-a=4
-b=3
-c=a*b*a
-print(a-b)
-print(c)
+a=1
+b=2
+print(2)
